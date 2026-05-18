@@ -1,122 +1,57 @@
-# Two Sum — LeetCode #1
+# Data Structures & Algorithms
 
-A beginner-friendly implementation of the classic **Two Sum** problem using both:
-
-- Brute Force Approach
-- Optimized Hash Map Approach
-
-This repository is part of my **DSA + Backend Engineering Journey** focused on building strong problem-solving fundamentals and maintaining consistent GitHub progress.
+A structured repository dedicated to mastering Data Structures & Algorithms through consistent problem solving, implementation practice, and interview-focused learning.
 
 ---
 
-# Problem Statement
+## Objectives
 
-Given an array of integers `nums` and an integer `target`, return the indices of the two numbers such that they add up to the target.
-
-### Example
-
-```txt
-Input:
-nums = [2,7,11,15]
-target = 9
-
-Output:
-[0,1]
-```
+- Strengthen problem-solving skills
+- Build strong DSA fundamentals
+- Practice coding interview questions
+- Improve algorithmic thinking
+- Prepare for software engineering interviews
+- Maintain consistency through daily practice
 
 ---
 
-# Approaches Implemented
-
-## 1. Brute Force Approach
-
-### Idea
-Check every possible pair using nested loops.
-
-### Complexity Analysis
-
-| Complexity | Value |
-|---|---|
-| Time Complexity | O(n²) |
-| Space Complexity | O(1) |
-
-### File
-```txt
-brute-force.cpp
-```
-
----
-
-## 2. Optimized Hash Map Approach
-
-### Idea
-Use a hash map to store previously visited elements and find the complement in constant time.
-
-### Complexity Analysis
-
-| Complexity | Value |
-|---|---|
-| Time Complexity | O(n) |
-| Space Complexity | O(n) |
-
-### File
-```txt
-optimized.cpp
-```
-
----
-
-# Key Concepts Learned
+## Topics Covered
 
 - Arrays
-- Time Complexity Analysis
+- Strings
 - Hashing
-- Space-Time Tradeoff
-- Hash Maps (`unordered_map` in C++)
+- Prefix Sum
+- Two Pointers
+- Sliding Window
+- Linked Lists
+- Stacks & Queues
+- Recursion & Backtracking
+- Trees & Binary Trees
+- Binary Search Trees
+- Heaps & Priority Queues
+- Graphs
+- Dynamic Programming
+- Greedy Algorithms
+- Bit Manipulation
+- Tries
+- Segment Trees
+- Disjoint Set Union (DSU)
 
 ---
 
-# Project Structure
+## Repository Structure
 
-```txt
-day-1-two-sum/
+```bash
+DSA/
 │
-├── README.md
-├── brute-force.cpp
-└── optimized.cpp
-```
-
----
-
-# Learning Outcome
-
-This problem helped me understand:
-
-- how brute force solutions work
-- how optimization reduces time complexity
-- how hashing enables constant-time lookup
-- why space complexity sometimes increases for better performance
-
----
-
-# Tech Stack
-
-- Language: C++
-- Platform: LeetCode
-- Editor: VS Code
-
----
-
-# Future Improvements
-
-- Add multiple test cases
-- Add dry run explanation
-- Add input/output handling
-- Add complexity comparison visuals
-
----
-
-# Author
-
-Devansh Jain  
-B.Tech CSE Student | DSA + Backend Engineering Journey
+├── Arrays/
+├── Strings/
+├── Hashing/
+├── LinkedList/
+├── Stack/
+├── Queue/
+├── Trees/
+├── Graphs/
+├── DynamicProgramming/
+├── Greedy/
+└── README.md
