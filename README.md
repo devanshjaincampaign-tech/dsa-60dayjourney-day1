@@ -88,6 +88,7 @@ DSA/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,4 +97,8 @@ DSA/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 <!---LeetCode Topics End-->
