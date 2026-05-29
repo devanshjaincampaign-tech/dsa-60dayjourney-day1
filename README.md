@@ -61,12 +61,14 @@ DSA/
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0704-binary-search/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0704-binary-search/) | Easy |
 ## Stack
