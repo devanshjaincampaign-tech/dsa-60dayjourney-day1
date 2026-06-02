@@ -65,6 +65,7 @@ DSA/
 | [0033-search-in-rotated-sorted-array](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0035-search-insert-position/) | Easy |
+| [0048-rotate-image](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0704-binary-search](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0704-binary-search/) | Easy |
@@ -118,6 +119,7 @@ DSA/
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0043-multiply-strings](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
+| [0048-rotate-image](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0258-add-digits/) | Easy |
@@ -212,4 +214,8 @@ DSA/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
