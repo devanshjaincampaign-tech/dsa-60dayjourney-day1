@@ -130,6 +130,7 @@ DSA/
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0043-multiply-strings](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
