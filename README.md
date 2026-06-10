@@ -131,6 +131,7 @@ DSA/
 | [0347-top-k-frequent-elements](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Hard/0992-subarrays-with-k-different-integers/) | Hard |
+| [1015-smallest-integer-divisible-by-k](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 ## String
@@ -165,6 +166,7 @@ DSA/
 | [0263-ugly-number](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0509-fibonacci-number/) | Easy |
+| [1015-smallest-integer-divisible-by-k](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/1015-smallest-integer-divisible-by-k/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/2485-find-the-pivot-integer/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
