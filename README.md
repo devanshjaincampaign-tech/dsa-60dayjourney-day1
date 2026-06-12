@@ -377,4 +377,5 @@ DSA/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0997-find-the-town-judge](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0997-find-the-town-judge/) | Easy |
+| [1791-find-center-of-star-graph](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/1791-find-center-of-star-graph/) | Easy |
 <!---LeetCode Topics End-->
