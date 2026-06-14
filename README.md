@@ -188,6 +188,7 @@ DSA/
 | [1015-smallest-integer-divisible-by-k](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Hard/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 | [2485-find-the-pivot-integer](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/2485-find-the-pivot-integer/) | Easy |
+| [2523-closest-prime-numbers-in-range](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/2523-closest-prime-numbers-in-range/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Simulation
@@ -203,6 +204,7 @@ DSA/
 | ------- | ------- |
 | [0204-count-primes](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0258-add-digits/) | Easy |
+| [2523-closest-prime-numbers-in-range](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/2523-closest-prime-numbers-in-range/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
