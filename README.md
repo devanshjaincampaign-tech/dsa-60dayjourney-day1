@@ -107,6 +107,7 @@ DSA/
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2354-number-of-excellent-pairs](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Hard/2354-number-of-excellent-pairs/) | Hard |
 | [2563-count-the-number-of-fair-pairs](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -131,6 +132,7 @@ DSA/
 | [0704-binary-search](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [2354-number-of-excellent-pairs](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Hard/2354-number-of-excellent-pairs/) | Hard |
 | [2563-count-the-number-of-fair-pairs](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -166,6 +168,7 @@ DSA/
 | [1015-smallest-integer-divisible-by-k](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2354-number-of-excellent-pairs](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Hard/2354-number-of-excellent-pairs/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,6 +271,7 @@ DSA/
 | [0231-power-of-two](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
+| [2354-number-of-excellent-pairs](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Hard/2354-number-of-excellent-pairs/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
