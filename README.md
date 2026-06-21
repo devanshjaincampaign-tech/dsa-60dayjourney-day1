@@ -259,6 +259,7 @@ DSA/
 | [0118-pascals-triangle](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0338-counting-bits](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0509-fibonacci-number/) | Easy |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Hard/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
@@ -280,6 +281,7 @@ DSA/
 | [0067-add-binary](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0231-power-of-two](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [0338-counting-bits](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [2354-number-of-excellent-pairs](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Hard/2354-number-of-excellent-pairs/) | Hard |
 ## Backtracking
