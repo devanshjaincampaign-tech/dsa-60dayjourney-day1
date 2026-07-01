@@ -111,6 +111,7 @@ DSA/
 | [0997-find-the-town-judge](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0997-find-the-town-judge/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1711-count-good-meals](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/1711-count-good-meals/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
@@ -161,6 +162,7 @@ DSA/
 | [0143-reorder-list](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -262,6 +264,7 @@ DSA/
 | [0067-add-binary](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0258-add-digits/) | Easy |
 | [0415-add-strings](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Hard/3614-process-string-with-special-operations-ii/) | Hard |
